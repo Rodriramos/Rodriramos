@@ -31,7 +31,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://es.wikipedia.org/wiki/MongoDB)
 
 ### Tools
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/Microsoft_Power_BI)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/Power_BI)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://es.wikipedia.org/wiki/Git)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)](https://es.wikipedia.org/wiki/Visual_Studio_Code)
 [![Linux](https://img.shields.io/badge/-Linux-E34F26?logo=linux&logoColor=black)](https://es.wikipedia.org/wiki/Linux)
