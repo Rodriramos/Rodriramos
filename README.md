@@ -23,6 +23,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3498DB?logo=typescript&logoColor=black)](https://es.wikipedia.org/wiki/TypeScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://es.wikipedia.org/wiki/React)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://es.wikipedia.org/wiki/Angular_(framework))
 
 ### Databases
