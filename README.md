@@ -18,6 +18,8 @@
 ### Languages
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://es.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://es.wikipedia.org/wiki/Python)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)](https://es.wikipedia.org/wiki/.NET)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
