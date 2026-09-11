@@ -1,51 +1,86 @@
-# 👋 Hi! I'm Rodrigo Ramos Hernández
+<div align="center">
 
-💻 I'm a Computer Engineering student at the University of La Laguna, passionate about programming and data analysis.  
-🚀 Focused on developing clean, efficient, and scalable solutions while continuously learning new technologies and best practices.  
+  # 👋 ¡Hola! Soy Rodrigo Ramos
 
----
+  ### 💻 Desarrollador Full-Stack & Software Engineer
+  *Santa Cruz de Tenerife, España*
 
-## 🧠 About Me
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-hern%C3%A1ndez-a943a2341)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramoshdezrodrigo@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-- 🔭 Currently exploring projects in .Net and web development with Angular.  
-- 🌱 Continuously learning about data analysis and new development tools.  
-- ⚡ Fun fact: I spent more time debugging than actually writing the program… and I call that research.
+  <br />
 
----
+  *Construyendo soluciones eficientes, escalables y orientadas a datos. Graduado en Ingeniería Informática por la Universidad de La Laguna.*
 
-## 🛠️ Technologies & Tools
-
-### Languages
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://es.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://es.wikipedia.org/wiki/Python)
-[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)](https://es.wikipedia.org/wiki/.NET)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3498DB?logo=typescript&logoColor=black)](https://es.wikipedia.org/wiki/TypeScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://es.wikipedia.org/wiki/React)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://es.wikipedia.org/wiki/Angular_(framework))
-
-### Databases
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://es.wikipedia.org/wiki/MySQL)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://es.wikipedia.org/wiki/PostgreSQL)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://es.wikipedia.org/wiki/MongoDB)
-
-### Tools
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/Power_BI)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://es.wikipedia.org/wiki/Git)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)](https://es.wikipedia.org/wiki/Visual_Studio_Code)
-[![Linux](https://img.shields.io/badge/-Linux-E34F26?logo=linux&logoColor=black)](https://es.wikipedia.org/wiki/Linux)
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 📌 Sobre Mí
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ramos-hernández-a943a2341)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ramoshdezrodrigo@gmail.com)
+- 🎓 **Ingeniero Informático** especializado en desarrollo full-stack, arquitecturas web y procesamiento de datos.
+- 🛠️ **Enfocado en:** Diseño de APIs REST robustas, pipelines ETL de datos e interfaces dinámicas y adaptativas.
+- 🚀 **Actualmente:** Desarrollando proyectos integrales con **Spring Boot, React / Angular y PostgreSQL**, además de explorar contenedorización avanzada con **Docker**.
+- 💡 *Fact:* Si un fallo dura más de 2 horas en solucionarse, no es un bug... es una investigación sobre el comportamiento imprevisto del framework. 😉
 
 ---
 
-✨ *“The best code is the one that doesn’t need comments to be understood.”*
+## 🛠️ Tech Stack & Herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Java` `TypeScript` `JavaScript` `Python` `C++` `C` |
+| **Backend & APIs** | `Spring Boot` `.NET Core` `FastAPI` `Node.js` `REST APIs` |
+| **Frontend** | `React` `Angular` `Tailwind CSS` `Vite` `HTML5/CSS3` |
+| **Bases de Datos** | `PostgreSQL` `MySQL` `MongoDB` |
+| **Data & DevOps** | `Docker` `Docker Compose` `Git` `GitHub Actions` `Linux` `Power BI` `Pandas` |
+
+---
+
+## 🚀 Proyectos Destacados
+
+<details>
+  <summary><b>💬 Real-Time Chat App (Spring Boot + React)</b></summary>
+  <br />
+  Plataforma de mensajería en tiempo real con soporte para canales personalizados, mensajes enriquecidos y de audio, autenticación con JWT y WebSockets.
+  
+  - **Stack:** Spring Boot, WebSockets, React, Tailwind CSS, PostgreSQL.
+</details>
+
+<details>
+  <summary><b>📊 Canary Islands Air Quality ETL Pipeline</b></summary>
+  <br />
+  Pipeline de extracción, transformación y carga (ETL) de datos históricos de calidad del aire. Desplegado y orquestado en contenedores Docker.
+  
+  - **Stack:** Java, PostgreSQL, Docker Compose, Pandas, Power BI.
+</details>
+
+<details>
+  <summary><b>🏥 Healthcare Tech Assessment Tool (TFG)</b></summary>
+  <br />
+  Herramienta interactiva guiada por ontologías para la generación de modelos de evaluación de tecnologías sanitarias.
+  
+  - **Stack:** REST APIs, OWL/Ontologías, Java, Frontend interactivo.
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ✨ *"El mejor código es aquel que no necesita comentarios para ser entendido."*
+
+  📫 **¿Buscas un perfil backend o full-stack para tu equipo?** ¡Escríbeme por [LinkedIn](https://www.linkedin.com/in/rodrigo-ramos-hern%C3%A1ndez-a943a2341) o [Email](mailto:ramoshdezrodrigo@gmail.com)!
+
+</div>
