@@ -33,7 +33,7 @@ Apasionado por escribir código limpio, mantenible y por la contenedorización d
 
 * **Real-Time Chat Application**
   * Aplicación de mensajería en tiempo real con canales personalizados, envío de audio, autenticación JWT y comunicación mediante WebSockets.
-  * **Tech:** *Spring Boot, React, WebSockets, PostgreSQL, Tailwind CSS.*
+  * **Tech:** *Spring Boot, React, WebSockets, MySQL, Tailwind CSS.*
 
 * **Canary Islands Air Quality ETL Pipeline**
   * Pipeline completo de extracción, transformación y carga para procesar y analizar series históricas de datos de calidad del aire.
@@ -41,7 +41,7 @@ Apasionado por escribir código limpio, mantenible y por la contenedorización d
 
 * **Healthcare Assessment Tool (TFG)**
   * Herramienta web interactiva guiada por ontologías OWL para la creación y simulación de modelos de evaluación de tecnologías sanitarias.
-  * **Tech:** *Java, REST APIs, Web Frameworks, Ontologías OWL.*
+  * **Tech:** *Python, REST APIs, React, Ontologías OWL.*
 
 ---
 
